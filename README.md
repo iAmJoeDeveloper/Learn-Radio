@@ -1,18 +1,20 @@
-# musicfm
+<<<<<<< HEAD
+# Learn-Radio
+This projects was created for the practice and manipulation of data from the API "LastFM"with Vue.js like technology principal.
 
-> top artists
+musicfm
 
-## Build Setup
+top artists
 
-``` bash
-# install dependencies
+Build Setup
+
+bash
+install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+build for production with minification
 npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+>>>>>>> origin/master
